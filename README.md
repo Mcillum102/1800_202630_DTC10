@@ -70,7 +70,7 @@ elmo-hikes/
 
 - **Shuhan** - BCIT CST Student with a passion for technology, programming, and building user-friendly applications. Fun fact: Loves soccer, video games, cooking, and exploring new places.
 
-- **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+- **Kevin** - BCIT CST Student with a passion for games developer. Fun fact: Love basketball, billard, video games.
 
 ---
 
